@@ -1,2 +1,2 @@
 # time-table
-simple time table generation system using java, html and mysql.
+simple time table generation system using java, jsp and mysql.
